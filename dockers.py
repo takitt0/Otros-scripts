@@ -1,1 +1,3 @@
-print("Hola, Mundo!")
+def func():
+    print("Hola, Mundo!")
+    return "Imprimimos ya"
