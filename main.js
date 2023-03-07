@@ -1,4 +1,4 @@
-function func() {
-    console.log("Hola mundo desde JS!")
-    return "Imprimiendo una funcion"
+function funcionCool() {
+    console.log("Hola mundo desde Java!")
+    return "Imprimiendo unas cosas"
 }
